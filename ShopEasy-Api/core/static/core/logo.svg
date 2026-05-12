@@ -1,0 +1,45 @@
+
+	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2426.9146827772092" height="3173.3510487698013" viewBox="0 0 2426.9146827772092 3173.3510487698013">
+		<defs>
+			<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+				<stop offset="0%" stop-color="#15967f"/>
+				<stop offset="100%" stop-color="#1ec8aa"/>
+			</linearGradient>
+			<linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+				<stop offset="0%" stop-color="#ffffff"/>
+				<stop offset="100%" stop-color="#f4fffc"/>
+			</linearGradient>
+			<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+				<stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+				<stop offset="100%" stop-color="#fff0e5" stop-opacity="0.9"/>
+			</linearGradient>
+			<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+				<feDropShadow dx="0" dy="40" stdDeviation="50" flood-color="#0b4f44" flood-opacity="0.24"/>
+			</filter>
+		</defs>
+		<rect fill="url(#bg)" width="2426.9146827772092" height="3173.3510487698013"/>
+		<circle cx="2060" cy="470" r="280" fill="#ffffff" opacity="0.12"/>
+		<circle cx="350" cy="2600" r="420" fill="#ffffff" opacity="0.08"/>
+		<g transform="translate(90, 130)">
+			<g transform="translate(0, 0)">
+				<circle cx="250" cy="250" r="240" fill="#18b79b"/>
+				<circle cx="250" cy="250" r="182" fill="url(#accent)" opacity="0.16"/>
+				<path d="M138 168 H362 L386 392 C389 425 363 452 330 452 H170 C137 452 111 425 114 392 Z" fill="#ffffff" opacity="0.96"/>
+				<path d="M178 168 C178 111 223 72 250 72 C277 72 322 111 322 168" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round"/>
+				<circle cx="184" cy="490" r="28" fill="#fff0e5"/>
+				<circle cx="316" cy="490" r="28" fill="#fff0e5"/>
+				<path d="M176 224 H324 L316 352 H184 Z" fill="#1ec8aa"/>
+				<path d="M215 252 H285" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+				<path d="M215 292 H285" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+			</g>
+			<g transform="translate(565, 165)">
+				<text x="0" y="0" fill="#ffffff" font-size="128" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="0.6">Shop Easy</text>
+				<text x="4" y="84" fill="#e8fffb" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="500" letter-spacing="0.3">Smart shopping, simple checkout.</text>
+				<g transform="translate(4, 142)">
+					<rect x="0" y="0" width="176" height="14" rx="7" fill="#ffffff" opacity="0.9"/>
+					<rect x="206" y="0" width="324" height="14" rx="7" fill="#ffffff" opacity="0.22"/>
+				</g>
+			</g>
+		</g>
+	</svg>
+	
